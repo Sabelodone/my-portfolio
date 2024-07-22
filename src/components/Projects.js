@@ -25,7 +25,7 @@ const initialProjects = [
     title: "My Portfolio",
     description: "My portfolio showcases a collection of projects highlighting my skills in web development and design. Using modern technologies and frameworks, it aims to demonstrate my proficiency in creating responsive and engaging web experiences. Tailored for potential employers and clients, it features a clean design, intuitive navigation, and showcases various projects that illustrate my expertise",
     img: "/my portfolio.png",
-    link: "http://my-portfolio-2678ypxga-sabelodones-projects.vercel.app",
+    link: "http://my-portfolio-tau-two-57.vercel.app",
     github: "https://github.com/Sabelodone/my-portfolio.git",
     showDescription: false // Initial state for description visibility
   }
