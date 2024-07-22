@@ -1,0 +1,35 @@
+/* Contact Section */
+#contact {
+    padding: 2rem 0;
+    background-color: #f8f9fa; /* Light grey background */
+  }
+  
+  #contact h2 {
+    margin-bottom: 1rem;
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  #contact .btn {
+    margin-top: 1rem;
+  }
+
+  #contact form {
+    margin-bottom: 20px;
+  }
+  
+  h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+  }
+  /* Responsive Styles */
+  @media (max-width: 768px) {
+    #contact h2 {
+      font-size: 1.5rem;
+    }
+  
+    #contact .btn {
+      font-size: 1rem;
+    }
+  }
+  
