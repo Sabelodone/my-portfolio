@@ -82,7 +82,7 @@ const Contact = () => {
               <h3>Download Resume</h3>
               <Button
                 variant="primary"
-                href={process.env.PUBLIC_URL + "./my resume - 2024-06-26 10_15_40.pdf"}
+                href={process.env.PUBLIC_URL + "./Sabelo Sibaya Resume 2024.pdf"}
                 download="Resume.pdf"
               >
                 Download Resume

@@ -28,7 +28,23 @@ const initialProjects = [
     link: "http://my-portfolio-tau-two-57.vercel.app",
     github: "https://github.com/Sabelodone/my-portfolio.git",
     showDescription: false // Initial state for description visibility
-  }
+  },
+  {
+    title: "Suits-systems",
+    description: "Suits Systems is a responsive web application tailored for law firms, focusing on seamless document management, case management, and time tracking.",
+    img: "/Screenshot 2024-09-20 075900.png",
+    link: "https://vercel.com/sabelodones-projects/suits-systems",
+    github: "https://github.com/Sabelodone/law-firm_software/tree/master/suits-systems",
+    showDescription: false // Initial state for description visibility
+  },
+  {
+    title: "Cheza",
+    description: "Cheza is a sleek and modern travel management website that provides users with a seamless platform to plan, book, and manage their travel experiences.",
+    img: "/Screenshot 2024-09-20 081716.png",
+    link: "https://cheza-phi.vercel.app/",
+    github: "https://github.com/Sabelodone/cheza-website",
+    showDescription: false // Initial state for description visibility
+  },
   // Add more projects as needed
 ];
 
