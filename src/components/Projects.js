@@ -45,6 +45,14 @@ const initialProjects = [
     github: "https://github.com/Sabelodone/cheza-website",
     showDescription: false // Initial state for description visibility
   },
+  {
+    title: "weather",
+    description: "The Weather Dashboard is an interactive web application designed to provide users with real-time weather data for various locations.",
+    img: "/Screenshot 2024-09-20 092247.png",
+    link: "https://weather-dashboard-ecru.vercel.app/",
+    github: "https://github.com/Sabelodone/weather",
+    showDescription: false // Initial state for description visibility
+  },
   // Add more projects as needed
 ];
 
