@@ -33,7 +33,7 @@ const initialProjects = [
     title: "Suits-systems",
     description: "Suits Systems is a responsive web application tailored for law firms, focusing on seamless document management, case management, and time tracking.",
     img: "/Screenshot 2024-09-20 075900.png",
-    link: "https://vercel.com/sabelodones-projects/suits-systems",
+    link: "https://suits-systems.vercel.app/",
     github: "https://github.com/Sabelodone/law-firm_software/tree/master/suits-systems",
     showDescription: false // Initial state for description visibility
   },
