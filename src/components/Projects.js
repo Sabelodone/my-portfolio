@@ -53,6 +53,15 @@ const initialProjects = [
     github: "https://github.com/Sabelodone/weather",
     showDescription: false // Initial state for description visibility
   },
+
+  {
+    title: "our small website",
+    description: "we are dedicated to providing innovative software solutions that empower businesses to thrive in the digital age",
+    img: "/Screenshot 2024-10-28 163533.png",
+    link: "https://soft-techs.vercel.app/",
+    github: "https://github.com/Sabelodone/soft-techs/tree/master/soft-techs",
+    showDescription: false // Initial state for description visibility
+  },
   // Add more projects as needed
 ];
 
